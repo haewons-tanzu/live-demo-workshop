@@ -8,6 +8,6 @@ https://github.com/snicoll-demos/restaurant-application
 
 https://content.pivotal.io/springone-platform-2017/st%C3%A9phane-nicoll-and-madhura-bhave
 
-1. restaurant app
-2. restaurant-service
-3. spring boot annimated banner
+1. restaurant app: 레스토랑 목록 조회
+2. restaurant-service app: 예약 가능한 레스토랑 목록 조회 
+3. spring boot annimated banner: animated gif 파일로 만든 스프링부트 배너
