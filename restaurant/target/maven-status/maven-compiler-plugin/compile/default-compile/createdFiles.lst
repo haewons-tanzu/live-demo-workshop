@@ -1,0 +1,7 @@
+com/example/restaurant/RestaurantAvailability.class
+com/example/restaurant/RestaurantApplication.class
+com/example/restaurant/RestaurantAvailabilityService.class
+com/example/restaurant/RestaurantController.class
+com/example/restaurant/RestaurantRepository.class
+com/example/restaurant/Restaurant.class
+com/example/restaurant/RestaurantServiceHealthIndicator.class
